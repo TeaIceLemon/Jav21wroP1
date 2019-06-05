@@ -18,7 +18,7 @@ public class InsertionSort {
         for(int a : arr) System.out.print(a + " ");
     }
 
-    public int[] insertioSort(int[] arr){
+    public static int[] insertioSort(int[] arr){
         int i, j ,temp;
         for(i=1; i<arr.length;i++){
             j=i-1;
