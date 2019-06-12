@@ -19,13 +19,13 @@ public class Sort {
     }
     public int[] arraySelecttionSort(int arr[]){
         for(int i = 0; i<arr.length-1;i++){
-            int minIndex =i;
+            int minIndex =i; // lowest value from array
             for(int j = i+1; j<arr.length;j++){
-                if(arr[j] <arr[minIndex]){
+                if(arr[j] <arr[minIndex]){  //checking if there is lower number in array
                     minIndex=j;
                 }
             }
-            int temp = arr[minIndex];
+            int temp = arr[minIndex]; //swaping current value with min value
             arr[minIndex] = arr[i];
             arr[i] = temp;
         }
