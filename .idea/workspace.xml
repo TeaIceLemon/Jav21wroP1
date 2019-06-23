@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1909574-bad1-481e-a4f5-e32e9f289aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/GameCounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/PoorCounterStrikeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/Swing/SwingMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sda/com/Sort/SortMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sda/com/Sort/SortMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,45 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/PoorCounterStrikeMain.java">
+        <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/SortMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-              <folding>
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/GameCounterStrike.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -108,21 +81,23 @@
         <option value="$PROJECT_DIR$/src/sda/com/Sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/sda/com/Sort/QuickSort/QuickSortMain.java" />
         <option value="$PROJECT_DIR$/src/sda/com/Sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/sda/com/Sort/SortMain.java" />
-        <option value="$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/EWeapon.java" />
         <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Weapon.java" />
         <option value="$PROJECT_DIR$/src/sda/com/Test.java" />
         <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/PoorCounterStrikeMain.java" />
-        <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java" />
         <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/GameCounterStrike.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/Swing/SwingMain.java" />
+        <option value="$PROJECT_DIR$/src/StupidTest.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/Sort/SortMain.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,7 +106,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,30 +129,17 @@
               <item name="Jav21wroP1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="GCD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jav21wroP1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jav21wroP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="PrimeNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jav21wroP1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jav21wroP1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ShippingInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560590279017" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561326588972" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -197,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PoorCounterStrikeMain">
+  <component name="RunManager" selected="Application.SortMain">
     <configuration name="FIndPairMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sda.com.HomeTaskJavaP1.FindPair.FIndPairMain" />
       <module name="Jav21wroP1" />
@@ -224,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PoorDarkSoulsGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.com.Games.PoorDarkSoulsGame.PoorDarkSoulsGameMain" />
+    <configuration name="SortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.com.Sort.SortMain" />
       <module name="Jav21wroP1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sda.com.Games.PoorDarkSoulsGame.*" />
+          <option name="PATTERN" value="sda.com.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.com.Sort.SortMain" />
+    <configuration name="SwingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.com.Swing.SwingMain" />
       <module name="Jav21wroP1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sda.com.Sort.*" />
+          <option name="PATTERN" value="sda.com.Swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortMain" />
+        <item itemvalue="Application.SwingMain" />
         <item itemvalue="Application.PoorCounterStrikeMain" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SortMain" />
         <item itemvalue="Application.FIndPairMain" />
-        <item itemvalue="Application.PoorDarkSoulsGameMain" />
       </list>
     </recent_temporary>
   </component>
@@ -288,9 +249,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,14 +259,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5275168" visible="true" weight="0.2635432" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49731544" weight="0.39970717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52348995" weight="0.25036603" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49463087" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49597314" weight="0.329429" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.47248322" side_tool="true" visible="true" weight="0.2635432" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4966443" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4919463" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.47651008" side_tool="true" visible="true" weight="0.25036603" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49597314" weight="0.329429" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4986577" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -326,6 +286,12 @@
           <line>15</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sda/com/Sort/SortMain.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -383,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/com/StopWatch/stopWatchMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -418,41 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/SortMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Weapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Test.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -460,29 +385,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java">
+    <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Weapon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding>
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/GameCounterStrike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#508#509#0" expanded="true" />
             <element signature="e#540#541#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Swing/SwingMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/PoorCounterStrike/Gun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -492,8 +429,65 @@
           <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StupidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/TransformerManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#2416#2417#0" expanded="true" />
+            <element signature="e#2460#2461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/Sort/SortMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

@@ -7,6 +7,7 @@ public class SortMain {
     public static void main(String[] args) {
         Sort sort = new Sort();
         QuickSort qSort = new QuickSort();
+        MergeSort mSort = new MergeSort();
 
         try(Scanner in = new Scanner(System.in )){
             System.out.println("Jakiej wielkości ma być tablica?");
@@ -19,7 +20,7 @@ public class SortMain {
                 System.out.print(i+ " ");
             }
             System.out.println();
-            for(int i : qSort.quickSort(arr,0,arr.length-1)/*sort.arraySelecttionSort(arr) sort.arrayBoubleSort(arr)*/){
+            for(int i : mSort.mergeSort(arr,0,arr.length-1)/*qSort.quickSort(arr,0,arr.length-1)*//*sort.arraySelecttionSort(arr) sort.arrayBoubleSort(arr)*/){
                 System.out.print(i + " ");
             }
         }catch(IllegalFormatException e){
