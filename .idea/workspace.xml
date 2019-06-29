@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1909574-bad1-481e-a4f5-e32e9f289aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FamilyVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/UtilityVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/FactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Salad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,50 +22,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Human.java">
+        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FactoryMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-              <folding>
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#1365#1366#0" expanded="true" />
-                <element signature="e#1335#1336#0" expanded="true" />
-                <element signature="e#1393#1394#0" expanded="true" />
-                <element signature="e#1446#1447#0" expanded="true" />
-                <element signature="e#1510#1511#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java">
+        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/FactoryMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-              <folding>
-                <element signature="e#1162#1163#0" expanded="true" />
-                <element signature="e#1209#1210#0" expanded="true" />
-                <element signature="e#1289#1290#0" expanded="true" />
-                <element signature="e#1320#1321#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
-                <element signature="e#1374#1375#0" expanded="true" />
-                <element signature="e#1400#1401#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
-                <element signature="e#1470#1471#0" expanded="true" />
-                <element signature="e#1500#1501#0" expanded="true" />
-                <element signature="e#1528#1529#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -126,8 +109,19 @@
         <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/BehavioralOperational/Builder/Builder.java" />
         <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Human.java" />
         <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Snake.java" />
-        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java" />
         <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Animal.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/Car.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FamilyVehicle.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/UtilityVehicle.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FactoryMain.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/SportCar.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/Food.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FactoryMain.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Food.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Salad.java" />
+        <option value="$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/FactoryMain.java" />
       </list>
     </option>
   </component>
@@ -183,7 +177,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="a_creation" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jav21wroP1" type="b2602c69:ProjectViewProjectNode" />
@@ -191,7 +185,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="c_behavioralOperational" type="462c0819:PsiDirectoryNode" />
+              <item name="a_creation" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+              <item name="CarFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jav21wroP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jav21wroP1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="a_creation" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodFactory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,8 +207,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561798687939" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561803299892" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorld/src/com/sda/carmodel/factory/TireFactory.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -220,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuilderMain">
+  <component name="RunManager" selected="Application.FactoryMain (1)">
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sda.com.DesignPatterns.a_creation.Builder.BuilderMain" />
       <module name="Jav21wroP1" />
@@ -234,12 +240,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PoorCounterStrikeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.com.PoorCounterStrike.PoorCounterStrikeMain" />
+    <configuration name="FactoryMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.com.DesignPatterns.a_creation.Factory.FoodFactory.FactoryMain" />
       <module name="Jav21wroP1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sda.com.PoorCounterStrike.*" />
+          <option name="PATTERN" value="sda.com.DesignPatterns.a_creation.Factory.FoodFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.com.DesignPatterns.a_creation.Factory.CarFactory.FactoryMain" />
+      <module name="Jav21wroP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.com.DesignPatterns.a_creation.Factory.CarFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,26 +292,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.com.Test" />
-      <module name="Jav21wroP1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sda.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryMain (1)" />
+        <item itemvalue="Application.FactoryMain" />
         <item itemvalue="Application.BuilderMain" />
         <item itemvalue="Application.SortMain" />
         <item itemvalue="Application.SwingMain" />
-        <item itemvalue="Application.PoorCounterStrikeMain" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -322,13 +328,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52214766" visible="true" weight="0.25036603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5214765" visible="true" weight="0.25036603" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49463087" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.490604" weight="0.329429" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.47785234" side_tool="true" visible="true" weight="0.25036603" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4899329" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4785235" side_tool="true" visible="true" weight="0.25036603" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49597314" weight="0.329429" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4986577" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -360,23 +366,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jav21wroP1.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Cryptography/Crypto.java" />
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Cryptography/CryptoMain.java" />
-    <entry file="file://$PROJECT_DIR$/src/sda/com/VendingMachine/VendingMachineMain.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="1370" selection-start-line="1370" selection-end-line="1370" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/VendingMachine/VendingMachineMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Games/PoorDarkSoulsGame/Weapon.java" />
-    <entry file="file://$PROJECT_DIR$/src/sda/com/Games/PoorDarkSoulsGame/HeroTemplate.java" />
     <entry file="file://$PROJECT_DIR$/src/sda/com/Games/PoorDarkSoulsGame/Maps.java" />
     <entry file="file://$PROJECT_DIR$/src/sda/com/Games/EazyGame/EazyGame.java" />
     <entry file="file://$PROJECT_DIR$/src/sda/com/Games/EazyGame/EazyGameMain.java" />
@@ -572,29 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-          <folding>
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -612,6 +578,102 @@
             <element signature="e#1500#1501#0" expanded="true" />
             <element signature="e#1528#1529#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/BuilderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Builder/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1393#1394#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FamilyVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/UtilityVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/SportCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HelloWorld/src/com/sda/carmodel/factory/TireFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Salad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/CarFactory/FactoryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sda/com/DesignPatterns/a_creation/Factory/FoodFactory/FactoryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
