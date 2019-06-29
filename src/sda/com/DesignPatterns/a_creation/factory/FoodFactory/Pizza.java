@@ -1,17 +1,18 @@
-package sda.com.DesignPatterns.a_creation.Factory.FoodFactory;
+package sda.com.DesignPatterns.a_creation.factory.FoodFactory;
 
-public class Salad extends Food {
+public class Pizza extends Food {
     private String foodType;
     private int kCal;
     private boolean isFastFood;
     private boolean hasCheese;
 
-    public Salad() {
+    public Pizza() {
         this.foodType = this.getClass().getSimpleName();
-        this.kCal = 300;
-        this.isFastFood = false;
-        this.hasCheese = false;
+        this.kCal = 500;
+        this.isFastFood = true;
+        this.hasCheese = true;
     }
+
     @Override
     public String getFoodType() { return this.foodType;}
 
@@ -24,3 +25,4 @@ public class Salad extends Food {
     @Override
     public boolean hasCheese() {return this.hasCheese; }
 }
+

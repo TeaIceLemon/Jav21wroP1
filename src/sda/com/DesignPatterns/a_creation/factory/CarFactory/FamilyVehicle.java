@@ -1,6 +1,4 @@
-package sda.com.DesignPatterns.a_creation.Factory.CarFactory;
-
-import sda.com.DesignPatterns.a_creation.Factory.CarFactory.Car;
+package sda.com.DesignPatterns.a_creation.factory.CarFactory;
 
 public class FamilyVehicle extends Car {
     private String type;

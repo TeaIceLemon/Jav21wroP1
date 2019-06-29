@@ -1,4 +1,4 @@
-package sda.com.DesignPatterns.a_creation.Factory.CarFactory;
+package sda.com.DesignPatterns.a_creation.factory.CarFactory;
 
 public class FactoryMain {
     static Car getCar(String type, String engine, String bodyType, String brand){

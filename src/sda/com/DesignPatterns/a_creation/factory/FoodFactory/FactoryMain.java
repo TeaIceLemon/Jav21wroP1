@@ -1,4 +1,4 @@
-package sda.com.DesignPatterns.a_creation.Factory.FoodFactory;
+package sda.com.DesignPatterns.a_creation.factory.FoodFactory;
 
 public class FactoryMain {
     static Food getFood(String foodType){

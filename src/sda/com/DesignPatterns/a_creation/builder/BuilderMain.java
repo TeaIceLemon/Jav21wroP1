@@ -1,4 +1,4 @@
-package sda.com.DesignPatterns.a_creation.Builder;
+package sda.com.DesignPatterns.a_creation.builder;
 
 public class BuilderMain {
     public static void main(String[] args) {
