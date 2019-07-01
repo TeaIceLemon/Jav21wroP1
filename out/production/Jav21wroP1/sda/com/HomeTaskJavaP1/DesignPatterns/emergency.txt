@@ -1,0 +1,7 @@
+    Fire Brigade    |       Police        |      Medical
+ ============================================================
+[1] Emergency       |   [4] Assault       |  [7] LowLevelEmergency
+[2] MajorEmergency  |   [5] Homicide      |  [8] MiddleLevelEmergeny
+[3] Disaster,       |   [6] BankRobbery   |  [9] HighLevelEmergency		
+   			
+   			
