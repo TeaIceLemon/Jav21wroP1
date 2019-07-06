@@ -10,6 +10,10 @@ public class MedicalDeparment extends Deparment {
 
     @Override
     public void react(int state) {
+        if(state>=7 && state <=9) {
+            System.out.println();
+            System.out.println("Medical Department:");
+        }
         if (state==7){
             System.out.println("Sending one Ambulance");
         }

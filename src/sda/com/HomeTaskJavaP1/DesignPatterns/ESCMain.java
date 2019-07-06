@@ -12,8 +12,8 @@ import java.util.Scanner;
 public class ESCMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Dispacher dispacher = new Dispacher();
         Emergency emergency = new Emergency();
+        Dispacher dispacher = new Dispacher(emergency);
         Deparment fireDepartment = new FireDeparment(emergency);
         Deparment policeDepartment = new PoliceDeparment(emergency);
         Deparment medicalDepartment = new MedicalDeparment(emergency);
@@ -30,9 +30,9 @@ public class ESCMain {
         boolean loop = true;
         while(loop) {
             try {
+                System.out.println("Hello what kind of emergence happened ? ");
                 int input = scanner.nextInt();
                 if (input<=0 || input>9) throw new IllegalArgumentException();
-                System.out.println("Hello what kind of emergence happened ? ");
                 dispacher.confirmEmergency(input);
                 loop = false;
 

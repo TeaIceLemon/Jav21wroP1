@@ -10,6 +10,10 @@ public class FireDeparment extends Deparment {
 
     @Override
     public void react(int state) {
+        if(state>=1 && state <=3) {
+            System.out.println();
+            System.out.println("Fire Department:");
+        }
         if (state==1){
             System.out.println("Sending one fireTruck");
         }

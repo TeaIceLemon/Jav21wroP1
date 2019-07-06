@@ -10,6 +10,10 @@ public class PoliceDeparment extends Deparment{
 
     @Override
     public void react(int state) {
+        if(state>=4 && state <=6) {
+            System.out.println();
+            System.out.println("Police Department:");
+        }
         if (state==4){
             System.out.println("Sending one police car");
         }
