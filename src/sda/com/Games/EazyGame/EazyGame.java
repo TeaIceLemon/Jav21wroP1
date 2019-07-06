@@ -1,4 +1,4 @@
-package sda.com.EazyGame;
+package sda.com.Games.EazyGame;
 
 import java.util.Scanner;
 

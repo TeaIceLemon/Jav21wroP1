@@ -1,4 +1,4 @@
-package sda.com.EazyGame;
+package sda.com.Games.EazyGame;
 
 public class EazyGameMain {
     public static void main(String[] args) {
